@@ -1,0 +1,6 @@
+{
+  "name": "PhishShield AI",
+  "description": "AI-Powered Phishing Detection Platform. Instantly scan URLs, emails, and SMS text messages for threat actors, credentials harvesting, and phishing scams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
